@@ -1,7 +1,8 @@
 # # -*- coding: utf-8 -*-
+import detectron2
 import torch
 import torchvision
-import detectron2
+
 from torch import nn
 import argparse
 
